@@ -1,0 +1,4 @@
+[submodule "RLJO/Royalline"]
+	path = RLJO/Royalline
+	url = git@github.com:RLJO/Royalline.git
+	branch = rrr
